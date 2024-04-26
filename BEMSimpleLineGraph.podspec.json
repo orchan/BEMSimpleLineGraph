@@ -26,5 +26,12 @@
   "source_files": [
     "Classes",
     "Classes/**/*.{h,m}"
-  ]
+  ],
+  "resource_bundles":
+  {
+      "BEMSimpleLineGraph_Privacy":
+      [
+          "Assets/PrivacyInfo.xcprivacy"
+      ]
+  },
 }
